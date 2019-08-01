@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-Book-orange.svg)](https://github.com/MaverickTK/MIT-Deep-Learning-Book/blob/master/deeplearningbook.pdf)
+[![Download](https://img.shields.io/badge/Download-Book-brightgreen.svg)](https://github.com/MaverickTK/MIT-Deep-Learning-Book/raw/master/deeplearningbook.pdf)
 
 # Deep Learning
 An MIT Press book
