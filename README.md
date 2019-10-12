@@ -6,10 +6,6 @@ Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 This is the most comprehensive book available on the deep learning and available as free html book for reading at http://www.deeplearningbook.org/
 
-**Comment on this book by Elon Musk**
->Written by three experts in the field, Deep Learning is the only comprehensive book on the subject." -- Elon Musk, cochair of OpenAI; cofounder and CEO of Tesla and SpaceX
-
-
 **http://www.deeplearningbook.org/ says:**
 
 **This repository contains**
